@@ -36,7 +36,7 @@ legal-notices/<year>/<slug>.md
 | Source | URL | Used for |
 |---|---|---|
 | WIPO Lex — Constitution of Eritrea | https://www.wipo.int/wipolex/en/text/215187 | Constitution (non-official mirror) |
-| Ministry of Information of Eritrea (Shabait) | https://shabait.com/2017/03/15/proclamation-no-180-2017/ , https://shabait.com/2015/11/05/ (Legal Notice 124/2015) | 2 legal texts |
+| Ministry of Information of Eritrea (Shabait) | https://shabait.com/2017/03/15/proclamation-no-180-2017/ , https://shabait.com/2015/11/05/legal-notice-no-124-2015-legal-tender-nakfa-currency-notes-regulations/ | 2 legal texts |
 
 ## Not covered / known gaps
 
